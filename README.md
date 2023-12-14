@@ -5,6 +5,6 @@ Auther rana
 <h1 class="name">My first Camad</h1>
 <style>
  h1{
-   color = "red"
+   color : "red"
    }
 </style>
